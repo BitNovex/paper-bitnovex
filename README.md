@@ -1,4 +1,4 @@
-# paper-bitnovex
+# Paper Wallet BitNovex
 
 **BitNovex Paper Wallet Generator**
 
