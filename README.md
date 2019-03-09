@@ -1,6 +1,4 @@
-# Paper Wallet BitNovex
-
-**BitNovex Paper Wallet Generator**
+# BitNovex Paper Wallet Generator
 
 https://paper.bitnovex.com
 
